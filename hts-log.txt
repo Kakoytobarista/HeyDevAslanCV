@@ -1,4 +1,4 @@
-HTTrack3.49-2 launched on Sun, 26 Nov 2023 20:53:14 at http://localhost/wordpress/#home http://localhost/wordpress/#about-me http://localhost/wordpress/#resume http://localhost/wordpress/#portfolio http://localhost/wordpress/#contact
+HTTrack3.49-2 launched on Sun, 26 Nov 2023 21:42:24 at http://localhost/wordpress/#home http://localhost/wordpress/#about-me http://localhost/wordpress/#resume http://localhost/wordpress/#portfolio http://localhost/wordpress/#contact
 (winhttrack http://localhost/wordpress/#home http://localhost/wordpress/#about-me http://localhost/wordpress/#resume http://localhost/wordpress/#portfolio http://localhost/wordpress/#contact -O "/Users/aslan/websites/cv_aslan" -%v )
 
 Information, Warnings and Errors reported for this mirror:
@@ -6,60 +6,60 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-20:55:37	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
-20:55:37	Warning: 	Retry after error -5 (Unable to get server's address: nodename nor servname provided, or not known) at link primary/home (from primary/primary)
-20:55:37	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/about-me (from primary/primary)
-20:55:37	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/resume (from primary/primary)
-20:55:37	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/portfolio (from primary/primary)
-20:55:37	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/contact (from primary/primary)
-20:55:37	Error: 	"Method Not Allowed" (405) at link localhost/wordpress/xmlrpc.php (from localhost/wordpress/)
-21:01:33	Error: 	"Bad Request" (400) at link localhost/wordpress/wp-admin/admin-ajax.php (from localhost/wordpress/)
-21:01:33	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/home (from primary/primary)
-21:01:33	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/about-me (from primary/primary)
-21:01:33	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/resume (from primary/primary)
-21:01:33	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/portfolio (from primary/primary)
-21:01:33	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/contact (from primary/primary)
-21:01:33	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
-21:01:33	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/font-awesome/fonts/fontawesome-webfont.eot?
-21:01:33	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
-21:01:33	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
-21:01:33	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
-21:01:33	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/themes/unique/fonts/glyphicons-halflings-regular.eot (from localhost/wordpress/wp-content/themes/unique/css/bootstrap.min.css?ver=3.3.7)
-21:01:33	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/themes/unique/fonts/glyphicons-halflings-regular.eot? (from localhost/wordpress/wp-content/themes/unique/css/bootstrap.min.css?ver=3.3.7)
-21:01:33	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/themes/unique/fonts/glyphicons-halflings-regular.woff2 (from localhost/wordpress/wp-content/themes/unique/css/bootstrap.min.css?ver=3.3.7)
-21:01:33	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/themes/unique/fonts/glyphicons-halflings-regular.woff (from localhost/wordpress/wp-content/themes/unique/css/bootstrap.min.css?ver=3.3.7)
-21:01:33	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/themes/unique/fonts/glyphicons-halflings-regular.ttf (from localhost/wordpress/wp-content/themes/unique/css/bootstrap.min.css?ver=3.3.7)
-21:01:33	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/themes/unique/fonts/glyphicons-halflings-regular.svg (from localhost/wordpress/wp-content/themes/unique/css/bootstrap.min.css?ver=3.3.7)
-21:01:33	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/themes/unique/css/owl.video.play.png (from localhost/wordpress/wp-content/themes/unique/css/owl.carousel.css?ver=2.0)
-21:01:33	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/themes/unique/css/mCSB_buttons.png (from localhost/wordpress/wp-content/themes/unique/css/jquery.mCustomScrollbar.min.css?ver=3.1.13)
-21:01:33	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/themes/unique/css/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.eot?d7yf1v
-21:01:33	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/themes/unique/css/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.eot?
-21:01:33	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/themes/unique/css/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.woff?d7yf1v
-21:01:33	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/themes/unique/css/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.ttf?d7yf1v
-21:01:33	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
-21:01:33	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
-21:01:33	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/linecons/fonts/linecons.eot
-21:01:33	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/entypo/fonts/entypo.eot
-21:01:33	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/entypo/fonts/entypo.eot?
-21:01:33	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/entypo/fonts/entypo.woff
-21:01:33	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/entypo/fonts/entypo.ttf
-21:01:33	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/typcn/fonts/typicons.eot
-21:01:33	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/typcn/fonts/typicons.eot?
-21:01:33	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/typcn/fonts/typicons.woff
-21:01:33	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/typcn/fonts/typicons.ttf
-21:01:33	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/unycon/fonts/Unycon.eot?-s8ws3j
-21:01:33	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/unycon/fonts/Unycon.eot?
-21:01:33	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/unycon/fonts/Unycon.ttf?-s8ws3j
-21:01:33	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/unycon/fonts/Unycon.woff?-s8ws3j
-21:01:33	Error: 	"Not Found" (404) at link localhost/wordpress/Shuffle.js%20requires%20Modernizr (from localhost/wordpress/wp-content/themes/unique/js/jquery.shuffle.min.js?ver=3.1.1)
-21:01:33	Error: 	"Not Found" (404) at link localhost/wordpress/cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js (from localhost/wordpress/wp-content/themes/unique/js/jquery.mCustomScrollbar.concat.min.js?ver=3.1.13)
-21:01:35	Error: 	"Not Found" (404) at link localhost/wordpress/youtube.com/embed/ (from localhost/wordpress/wp-content/themes/unique/js/main.js?ver=2.6.2)
-21:01:35	Error: 	"Not Found" (404) at link localhost/wordpress/vimeo.com/video/ (from localhost/wordpress/wp-content/themes/unique/js/main.js?ver=2.6.2)
-21:01:35	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/home (from primary/primary)
-21:01:35	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/about-me (from primary/primary)
-21:01:35	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/resume (from primary/primary)
-21:01:35	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/portfolio (from primary/primary)
-21:01:35	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/contact (from primary/primary)
+21:44:46	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+21:44:46	Warning: 	Retry after error -5 (Unable to get server's address: nodename nor servname provided, or not known) at link primary/home (from primary/primary)
+21:44:46	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/about-me (from primary/primary)
+21:44:46	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/resume (from primary/primary)
+21:44:46	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/portfolio (from primary/primary)
+21:44:46	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/contact (from primary/primary)
+21:44:46	Error: 	"Method Not Allowed" (405) at link localhost/wordpress/xmlrpc.php (from localhost/wordpress/)
+21:50:51	Error: 	"Bad Request" (400) at link localhost/wordpress/wp-admin/admin-ajax.php (from localhost/wordpress/)
+21:50:51	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/home (from primary/primary)
+21:50:51	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/about-me (from primary/primary)
+21:50:51	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/resume (from primary/primary)
+21:50:51	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/portfolio (from primary/primary)
+21:50:51	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/contact (from primary/primary)
+21:50:51	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+21:50:51	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/font-awesome/fonts/fontawesome-webfont.eot?
+21:50:51	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+21:50:51	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+21:50:51	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+21:50:51	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/themes/unique/fonts/glyphicons-halflings-regular.eot (from localhost/wordpress/wp-content/themes/unique/css/bootstrap.min.css?ver=3.3.7)
+21:50:51	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/themes/unique/fonts/glyphicons-halflings-regular.eot? (from localhost/wordpress/wp-content/themes/unique/css/bootstrap.min.css?ver=3.3.7)
+21:50:51	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/themes/unique/fonts/glyphicons-halflings-regular.woff2 (from localhost/wordpress/wp-content/themes/unique/css/bootstrap.min.css?ver=3.3.7)
+21:50:51	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/themes/unique/fonts/glyphicons-halflings-regular.woff (from localhost/wordpress/wp-content/themes/unique/css/bootstrap.min.css?ver=3.3.7)
+21:50:51	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/themes/unique/fonts/glyphicons-halflings-regular.ttf (from localhost/wordpress/wp-content/themes/unique/css/bootstrap.min.css?ver=3.3.7)
+21:50:51	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/themes/unique/fonts/glyphicons-halflings-regular.svg (from localhost/wordpress/wp-content/themes/unique/css/bootstrap.min.css?ver=3.3.7)
+21:50:51	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/themes/unique/css/owl.video.play.png (from localhost/wordpress/wp-content/themes/unique/css/owl.carousel.css?ver=2.0)
+21:50:51	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/themes/unique/css/mCSB_buttons.png (from localhost/wordpress/wp-content/themes/unique/css/jquery.mCustomScrollbar.min.css?ver=3.1.13)
+21:50:51	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/themes/unique/css/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.eot?d7yf1v
+21:50:51	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/themes/unique/css/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.eot?
+21:50:51	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/themes/unique/css/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.woff?d7yf1v
+21:50:51	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/themes/unique/css/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.ttf?d7yf1v
+21:50:51	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+21:50:51	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+21:50:51	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/linecons/fonts/linecons.eot
+21:50:51	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/entypo/fonts/entypo.eot
+21:50:51	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/entypo/fonts/entypo.eot?
+21:50:51	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/entypo/fonts/entypo.woff
+21:50:51	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/entypo/fonts/entypo.ttf
+21:50:51	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/typcn/fonts/typicons.eot
+21:50:51	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/typcn/fonts/typicons.eot?
+21:50:51	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/typcn/fonts/typicons.woff
+21:50:51	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/typcn/fonts/typicons.ttf
+21:50:51	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/unycon/fonts/Unycon.eot?-s8ws3j
+21:50:51	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/unycon/fonts/Unycon.eot?
+21:50:51	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/unycon/fonts/Unycon.ttf?-s8ws3j
+21:50:51	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/unyson/framework/static/libs/unycon/fonts/Unycon.woff?-s8ws3j
+21:50:51	Error: 	"Not Found" (404) at link localhost/wordpress/Shuffle.js%20requires%20Modernizr (from localhost/wordpress/wp-content/themes/unique/js/jquery.shuffle.min.js?ver=3.1.1)
+21:50:51	Error: 	"Not Found" (404) at link localhost/wordpress/cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js (from localhost/wordpress/wp-content/themes/unique/js/jquery.mCustomScrollbar.concat.min.js?ver=3.1.13)
+21:50:53	Error: 	"Not Found" (404) at link localhost/wordpress/youtube.com/embed/ (from localhost/wordpress/wp-content/themes/unique/js/main.js?ver=2.6.2)
+21:50:53	Error: 	"Not Found" (404) at link localhost/wordpress/vimeo.com/video/ (from localhost/wordpress/wp-content/themes/unique/js/main.js?ver=2.6.2)
+21:50:53	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/home (from primary/primary)
+21:50:53	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/about-me (from primary/primary)
+21:50:53	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/resume (from primary/primary)
+21:50:53	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/portfolio (from primary/primary)
+21:50:53	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/contact (from primary/primary)
 
-HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 21 seconds : 127 links scanned, 96 files written (11295913 bytes overall) [11730498 bytes received at 23414 bytes/sec], 5.0 requests per connection
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 29 seconds : 127 links scanned, 96 files written (11295970 bytes overall) [11730559 bytes received at 23046 bytes/sec], 4.3 requests per connection
 (20 errors, 34 warnings, 0 messages)

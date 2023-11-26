@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Unycon';
-	src:url('Unyconfda5.html?-s8ws3j');
-	src:url('Unycond41d.html?#iefix-s8ws3j') format('embedded-opentype'),
-		url('Unyconfda5-2.html?-s8ws3j') format('truetype'),
-		url('Unyconfda5-3.html?-s8ws3j') format('woff'),
-		url('Unyconfda5.svg?-s8ws3j#Unycon') format('svg');
+	src:url('fonts/Unyconfda5.html?-s8ws3j');
+	src:url('fonts/Unycond41d.html?#iefix-s8ws3j') format('embedded-opentype'),
+		url('fonts/Unyconfda5-2.html?-s8ws3j') format('truetype'),
+		url('fonts/Unyconfda5-3.html?-s8ws3j') format('woff'),
+		url('fonts/Unyconfda5.svg?-s8ws3j#Unycon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }

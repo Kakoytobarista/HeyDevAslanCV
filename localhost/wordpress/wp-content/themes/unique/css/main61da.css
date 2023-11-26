@@ -3072,7 +3072,7 @@ blockquote {
 
 /* ======= Post Thumbnail ======= */
 .post-thumbnail {
-  background: #b2b2b2 url(pattern-light.svg) repeat fixed;
+  background: #b2b2b2 url(../images/pattern-light.svg) repeat fixed;
   display: block;
   position: relative;
   width: 100%;
