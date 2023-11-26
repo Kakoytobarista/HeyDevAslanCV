@@ -1,0 +1,8 @@
+http://localhost/wordpress/#home http://localhost/wordpress/#about-me http://localhost/wordpress/#resume http://localhost/wordpress/#portfolio http://localhost/wordpress/#contact -O "/Users/aslan/websites/cv_aslan" -%v
+File generated automatically on Sun, 26 Nov 2023 16:40:19, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
